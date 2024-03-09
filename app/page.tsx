@@ -1,5 +1,5 @@
-import Image from "next/image";
 "use client";
+import Image from "next/image";
 import React from "react";
 import { Idb } from "../public/idb";
 
